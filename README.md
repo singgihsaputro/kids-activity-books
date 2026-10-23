@@ -5,5 +5,6 @@ Each folder holds its generator script, the PDF, and page previews.
 
 | Book | Pages | PDF |
 |---|---|---|
+| [2026-10-23-kidsbook-things-that-go](books/2026-10-23-kidsbook-things-that-go) | — | [book.pdf](books/2026-10-23-kidsbook-things-that-go/book.pdf) |
 | [2026-10-15-kidsbook-fruit-and-veg](books/2026-10-15-kidsbook-fruit-and-veg) | — | [book.pdf](books/2026-10-15-kidsbook-fruit-and-veg/book.pdf) |
 | [2026-10-07-kidsbook-under-the-sea](books/2026-10-07-kidsbook-under-the-sea) | — | [book.pdf](books/2026-10-07-kidsbook-under-the-sea/book.pdf) |
